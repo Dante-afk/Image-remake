@@ -1,0 +1,53 @@
+label {
+  display: block; 
+  font-weight: bold;
+  color: red;
+}
+
+.form-group {
+  margin-bottom: 15px; 
+}
+.container {
+  max-width: 35rem;
+  justify-content: center;
+  background-color: pink;
+  place-content: center;
+  
+}
+
+.heading {
+  font-size: 90%;
+  color: yellow;
+  background-color: red;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  text-align: left;
+}
+
+p {
+  text-align: center;
+  margin-top: -1rem;
+}
+
+i {
+  font-size: 80%;
+  margin-top: -1rem;
+  
+}
+
+table {
+  width: 100%; 
+  max-width: 100%; 
+}
+
+td {
+  text-align: center;
+}
+
+th {
+  color: red;
+}
+
+
+
